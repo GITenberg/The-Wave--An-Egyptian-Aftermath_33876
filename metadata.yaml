@@ -1,0 +1,32 @@
+_repo: The-Wave--An-Egyptian-Aftermath_33876
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: If your idea of the perfect horror story is more about small, spine-chilling
+  details and big ideas, rather than a nonstop parade of grisly gore, you should explore
+  the work of Algernon Blackwood. Set in Egypt, The Wave is an engrossing example
+  of the 'weird' tale that Blackwood helped to pioneer.
+gutenberg_issued: '2010-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'British -- Egypt -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+title: 'The Wave: An Egyptian Aftermath'
+url: http://www.gutenberg.org/ebooks/33876
